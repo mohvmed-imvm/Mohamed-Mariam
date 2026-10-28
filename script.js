@@ -185,8 +185,8 @@ function applyLanguage() {
   });
 
   document.title = currentLanguage === "ar"
-    ? "Mohamed♡Mariem"
-    : "Mohamed♡Mariem";
+    ? "Mohamed♡Mariam"
+    : "Mohamed♡Mariam";
 
   if (mysteryGift) {
     mysteryGift.setAttribute(
